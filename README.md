@@ -1,3 +1,5 @@
+![Student Management System Banner](banner.png)
+
 # Student Management System
 
 A simple Python-based console application for managing student records.
